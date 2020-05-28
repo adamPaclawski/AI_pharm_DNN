@@ -1,4 +1,4 @@
-SMILES	Agonist
+SMILES	Affinity_to_ER_receptor
 C[C@]12C=CC(=O)C=C1CC[C@@H]1C2=CC[C@]2(C)[C@@H](C(=O)CN3CCN(c4cc(N5CCCC5)nc(N5CCCC5)n4)CC3)CC[C@@H]12.O=C(O)/C=C\C(=O)O	0
 Nc1ncnc2c1nc(Br)n2C1OC2CO[P@@](=O)([O-])O[C@@H]2C1O.[Na+]	0
 O=c1c2ccccc2nc2n1CCc1c-2[nH]c2ccccc12	1
